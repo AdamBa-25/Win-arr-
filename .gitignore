@@ -1,0 +1,19 @@
+# Compilation
+build/
+winarr
+*.o
+*.d
+
+# Fichiers de sortie de tes tests
+*.cmp
+*.out
+*.tmp
+
+# Debug
+core
+vgcore.*
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
